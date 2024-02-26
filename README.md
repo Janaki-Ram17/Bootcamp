@@ -1,0 +1,2 @@
+# Bootcamp
+setting up git
