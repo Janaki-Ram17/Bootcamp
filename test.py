@@ -1,8 +1,8 @@
 def greet():
 
     name = input("Enter your name: ")
-
-    print("Hello, {}! Welcome to Python programming.".format(name))
+    age = input("Enter your age: ")
+    print("Hello, {}! Welcome to Python programming. You are {} years old.".format(name, age))
 
 greet()
 
